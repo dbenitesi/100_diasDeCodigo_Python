@@ -18,3 +18,11 @@
   <li>Todo es memoria muscular(practicar, practicar y practicar</li>
   <li>Con ctrl + / se comentan las lineas y con Alt + flechas se sube o bajan lineas de codigo</li>
   <li>Queda pendiente hacer un post sobre el asunto</li>
+  <h2>Dia 3</h2>
+  <p align=justify>El dia de hoy el curso ha dado un vuelco terrible en su complejidad, y ya voy viendo para donde apunta la autora. Me encanta la parte que busca que el programador comience a ser analitico y que comencemos a buscar proyectos y recursos desde nuestro lado. El dia de practica ha sido bien largo, y me ha tomado casi unas 5 horas completar el dia.</p>
+  <ol>
+    <li>La practica hace al maestro</li>
+    <li>Condicionales mezclados con lo visto anteriormente</li>
+    <li>Nuevas formas de ver el codigo</li>
+    <li>Desafios mejor pensados</li>
+  </ol><p allign=justify>Ya no puedo esperar a ver con que saldra el dia de manana, jejejeje. O despues de dos dias, dos dias para completar el dia 4 por carga laboral, pero creo que es importante no dejar el musculo descansar, asi que ha forma de rebeldia: segui un tutorial sobre automatizacion de tareas basicas, que dejare en la descripcion como personal si quieren ir a verlo</p>
